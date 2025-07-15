@@ -1,0 +1,38 @@
+{
+  "PRI": [
+    "#4CAF50",
+    "Derecho Privado"
+  ],
+  "PUB": [
+    "#2196F3",
+    "Derecho P\u00fablico"
+  ],
+  "PEN": [
+    "#F44336",
+    "Derecho Penal"
+  ],
+  "NEG": [
+    "#FF9800",
+    "Derecho de los Negocios"
+  ],
+  "GEN": [
+    "#9E9E9E",
+    "Formaci\u00f3n General e Ingl\u00e9s"
+  ],
+  "FIL": [
+    "#9C27B0",
+    "Teor\u00eda y Filosof\u00eda del Derecho"
+  ],
+  "CLI": [
+    "#795548",
+    "Cl\u00ednicas Jur\u00eddicas"
+  ],
+  "LIC": [
+    "#3F51B5",
+    "Licenciatura"
+  ],
+  "OPT": [
+    "#00BCD4",
+    "Optativos"
+  ]
+}
