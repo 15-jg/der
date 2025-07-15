@@ -1,0 +1,574 @@
+{
+  "s1": [
+    [
+      "Fundamentos Histórico-Sociales del Derecho",
+      "DER06111",
+      5,
+      5,
+      "OB",
+      [],
+      "O"
+    ],
+    [
+      "Instituciones Políticas y DDHH",
+      "DER06112",
+      5,
+      5,
+      "OB",
+      [],
+      "O"
+    ],
+    [
+      "Taller de Razonamiento Jurídico",
+      "DER06113",
+      10,
+      10,
+      "OB",
+      [],
+      "O"
+    ],
+    [
+      "Taller de Investigación y Escritura Legal",
+      "DER06114",
+      5,
+      5,
+      "OB",
+      [],
+      "O"
+    ],
+    [
+      "Comunicación Oral",
+      "DER06115",
+      3,
+      3,
+      "OB",
+      [],
+      "O"
+    ],
+    [
+      "Inglés General I",
+      "CIG1012",
+      5,
+      5,
+      "CFG",
+      [],
+      "O"
+    ],
+    [
+      "Curso Formación General I",
+      "CFG1_6",
+      5,
+      5,
+      "CFG",
+      [],
+      "O"
+    ]
+  ],
+  "s2": [
+    [
+      "Privado Persona y Acto Jurídico",
+      "DER06121",
+      5,
+      5,
+      "OB",
+      [
+        "DER06111"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Constitucional Orgánico",
+      "DER06122",
+      5,
+      5,
+      "OB",
+      [
+        "DER06112"
+      ],
+      "O"
+    ],
+    [
+      "Introducción al Derecho I",
+      "DER06123",
+      5,
+      5,
+      "OB",
+      [
+        "DER06113"
+      ],
+      "O"
+    ],
+    [
+      "Bases Generales del Derecho Procesal",
+      "DER06124",
+      5,
+      5,
+      "OB",
+      [],
+      "O"
+    ],
+    [
+      "Inglés General II",
+      "CIG1013",
+      5,
+      5,
+      "CFG",
+      [
+        "CIG1012"
+      ],
+      "O"
+    ],
+    [
+      "Curso Formación General II",
+      "CFG2_6",
+      5,
+      5,
+      "CFG",
+      [],
+      "O"
+    ]
+  ],
+  "s3": [
+    [
+      "Derechos Reales y Derecho Inmobiliario",
+      "DER06211",
+      5,
+      5,
+      "OB",
+      [
+        "DER06121"
+      ],
+      "O"
+    ],
+    [
+      "Derechos Fundamentales",
+      "DER06212",
+      7,
+      7,
+      "OB",
+      [
+        "DER06122"
+      ],
+      "O"
+    ],
+    [
+      "Introducción al Derecho II",
+      "DER06213",
+      5,
+      5,
+      "OB",
+      [
+        "DER06123"
+      ],
+      "O"
+    ],
+    [
+      "Economía y Derecho",
+      "DER06214",
+      5,
+      5,
+      "OB",
+      [
+        "DER06114"
+      ],
+      "O"
+    ],
+    [
+      "Taller Destrezas Litigación Oral",
+      "DER06223",
+      5,
+      5,
+      "OB",
+      [
+        "DER06124",
+        "DER06211",
+        "DER06212",
+        "DER06213"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Regulatorio",
+      "DER06224",
+      5,
+      5,
+      "OB",
+      [
+        "DER06214"
+      ],
+      "O"
+    ],
+    [
+      "Inglés General III",
+      "CIG1014",
+      5,
+      5,
+      "CFG",
+      [
+        "CIG1013"
+      ],
+      "O"
+    ],
+    [
+      "Curso Formación General III",
+      "CFG3_6",
+      5,
+      5,
+      "CFG",
+      [],
+      "O"
+    ]
+  ],
+  "s4": [
+    [
+      "Derecho de las Obligaciones",
+      "DER06221",
+      5,
+      5,
+      "OB",
+      [
+        "DER06211"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Penal Parte General I",
+      "DER06222",
+      5,
+      5,
+      "OB",
+      [
+        "DER06123"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Comercial",
+      "DER06315",
+      5,
+      5,
+      "OB",
+      [
+        "DER06224"
+      ],
+      "O"
+    ],
+    [
+      "Curso Formación General IV",
+      "CFG4_6",
+      5,
+      5,
+      "CFG",
+      [],
+      "O"
+    ]
+  ],
+  "s5": [
+    [
+      "Derecho de Daños",
+      "DER06311",
+      5,
+      5,
+      "OB",
+      [
+        "DER06221"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Internacional Público",
+      "DER06312",
+      5,
+      5,
+      "OB",
+      [
+        "DER06212"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Penal Parte General II",
+      "DER06313",
+      5,
+      5,
+      "OB",
+      [
+        "DER06213",
+        "DER06222"
+      ],
+      "O"
+    ],
+    [
+      "Procedimientos Judiciales",
+      "DER06314",
+      5,
+      5,
+      "OB",
+      [
+        "DER06223"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Societario",
+      "DER06324",
+      5,
+      5,
+      "OB",
+      [
+        "DER06224"
+      ],
+      "O"
+    ],
+    [
+      "Curso Formación General V",
+      "CFG5_6",
+      5,
+      5,
+      "CFG",
+      [],
+      "O"
+    ]
+  ],
+  "s6": [
+    [
+      "Contratos",
+      "DER06321",
+      7,
+      7,
+      "OB",
+      [
+        "DER06311"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Administrativo",
+      "DER06322",
+      5,
+      5,
+      "OB",
+      [
+        "DER06212"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Penal Parte Especial",
+      "DER06323",
+      5,
+      5,
+      "OB",
+      [
+        "DER06313"
+      ],
+      "O"
+    ],
+    [
+      "Taller de Negociación en Procesos Colaborativos",
+      "DER06414",
+      5,
+      5,
+      "OB",
+      [
+        "DER06314"
+      ],
+      "O"
+    ]
+  ],
+  "s7": [
+    [
+      "Derecho de Familia y Sucesorio",
+      "DER06411",
+      5,
+      5,
+      "OB",
+      [
+        "DER06321"
+      ],
+      "O"
+    ],
+    [
+      "Derecho y Medio Ambiente",
+      "DER06412",
+      5,
+      5,
+      "OB",
+      [
+        "DER06322"
+      ],
+      "O"
+    ],
+    [
+      "Proceso Penal",
+      "DER06413",
+      5,
+      5,
+      "OB",
+      [
+        "DER06323"
+      ],
+      "O"
+    ],
+    [
+      "Derecho Tributario",
+      "DER06415",
+      5,
+      5,
+      "OB",
+      [
+        "DER06324"
+      ],
+      "O"
+    ],
+    [
+      "Curso Optativo III",
+      "OPT3",
+      5,
+      5,
+      "OPT",
+      [],
+      "E"
+    ]
+  ],
+  "s8": [
+    [
+      "Clínicas Jurídicas I / Pasantía supervisada",
+      "DER06C_F1",
+      12,
+      12,
+      "CLI",
+      [],
+      "O"
+    ],
+    [
+      "Filosofía del Derecho",
+      "DER06511",
+      5,
+      5,
+      "OB",
+      [
+        "DER06213"
+      ],
+      "O"
+    ],
+    [
+      "Curso Optativo I",
+      "OPT1",
+      5,
+      5,
+      "OPT",
+      [
+        "DER06321",
+        "DER06322",
+        "DER06323",
+        "DER06324"
+      ],
+      "E"
+    ],
+    [
+      "Curso Optativo II",
+      "OPT2",
+      5,
+      5,
+      "OPT",
+      [
+        "DER06321",
+        "DER06322",
+        "DER06323",
+        "DER06324"
+      ],
+      "E"
+    ]
+  ],
+  "s9": [
+    [
+      "Clínicas Jurídicas II / Pasantía supervisada",
+      "DER06C_F2",
+      12,
+      12,
+      "CLI",
+      [
+        "DER06C_F1"
+      ],
+      "O"
+    ],
+    [
+      "Curso Optativo IV",
+      "OPT4",
+      5,
+      5,
+      "OPT",
+      [
+        "DER06321",
+        "DER06322",
+        "DER06323",
+        "DER06324"
+      ],
+      "E"
+    ],
+    [
+      "Seminario de Investigación y Escritura Jurídica Avanzada",
+      "DER06512",
+      10,
+      10,
+      "OB",
+      [
+        "DER06C_F1"
+      ],
+      "O"
+    ],
+    [
+      "Ética y Responsabilidad Profesional en la Abogacía",
+      "DER06522",
+      3,
+      3,
+      "OB",
+      [
+        "DER06C_F2"
+      ],
+      "O"
+    ]
+  ],
+  "s10": [
+    [
+      "Curso de Investigación y Actividad de Licenciatura",
+      "DER06521",
+      18,
+      18,
+      "LIC",
+      [
+        "DER06512",
+        "DER06415"
+      ],
+      "O"
+    ],
+    [
+      "Taller de Inserción y Emprendimiento Profesional",
+      "DER06523",
+      3,
+      3,
+      "OB",
+      [
+        "DER06C_F2"
+      ],
+      "O"
+    ],
+    [
+      "Curso Optativo V",
+      "OPT5",
+      5,
+      5,
+      "OPT",
+      [
+        "DER06214",
+        "DER06223",
+        "DER06321",
+        "DER06322",
+        "DER06323",
+        "DER06324"
+      ],
+      "E"
+    ]
+  ]
+}
